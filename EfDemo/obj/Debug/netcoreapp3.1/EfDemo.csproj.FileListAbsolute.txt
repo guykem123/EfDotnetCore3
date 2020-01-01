@@ -1,4 +1,3 @@
-D:\source\repos\EfDemo\EfDemo\obj\Debug\netcoreapp3.1\EfDemo.csprojAssemblyReference.cache
 D:\source\repos\EfDemo\EfDemo\obj\Debug\netcoreapp3.1\staticwebassets\EfDemo.StaticWebAssets.Manifest.cache
 D:\source\repos\EfDemo\EfDemo\obj\Debug\netcoreapp3.1\staticwebassets\EfDemo.StaticWebAssets.xml
 D:\source\repos\EfDemo\EfDemo\obj\Debug\netcoreapp3.1\EfDemo.RazorAssemblyInfo.cache
@@ -31,12 +30,13 @@ D:\source\repos\EfDemo\EfDemo\obj\Debug\netcoreapp3.1\EfDemo.Views.pdb
 D:\source\repos\EfDemo\EfDemo\obj\Debug\netcoreapp3.1\EfDemo.csproj.CopyComplete
 D:\source\repos\EfDemo\EfDemo\obj\Debug\netcoreapp3.1\EfDemo.dll
 D:\source\repos\EfDemo\EfDemo\obj\Debug\netcoreapp3.1\EfDemo.pdb
+D:\source\repos\EfDemo\EfDemo\obj\Debug\netcoreapp3.1\EfDemo.csprojAssemblyReference.cache
 D:\source\repos\EfDemo\EfDemo\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
 D:\source\repos\EfDemo\EfDemo\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
 D:\source\repos\EfDemo\EfDemo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
 D:\source\repos\EfDemo\EfDemo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
-D:\source\repos\EfDemo\EfDemo\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
 D:\source\repos\EfDemo\EfDemo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\source\repos\EfDemo\EfDemo\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
 D:\source\repos\EfDemo\EfDemo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
 D:\source\repos\EfDemo\EfDemo\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
 D:\source\repos\EfDemo\EfDemo\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
@@ -50,4 +50,4 @@ D:\source\repos\EfDemo\EfDemo\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sn
 D:\source\repos\EfDemo\EfDemo\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 D:\source\repos\EfDemo\EfDemo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 D:\source\repos\EfDemo\EfDemo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-D:\source\repos\EfDemo\EfDemo\obj\Debug\netcoreapp3.1\EfDemo.MvcApplicationPartsAssemblyInfo.cache
+D:\source\repos\EfDemo\EfDemo\bin\Debug\netcoreapp3.1\Packages\Microsoft.EntityFrameworkCore.Tools.3.1.0\tools\netcoreapp2.0\any\ef.runtimeconfig.json
